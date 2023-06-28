@@ -13,3 +13,4 @@
 ----------------------------------------------------------
 - TSO LASTIPL: Date and time of the last IPL
 - TSO ISPVCALL STATUS: System information related to ISPF Session
+- TSO vagtadm: Administration af Batchvagter og Kontaktpersoner
