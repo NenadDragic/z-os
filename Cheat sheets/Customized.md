@@ -8,7 +8,11 @@
 - RMF: Performance Management
 - TASID: System Enqueue Status (Shows jobs holding/allocated datasets)
 - ISRDDN: Overview of DDNAME and DSNName in your ISPF Session
-- Utilities(3): Udlist(17): z/OS UNIX Directory List Utility 
+
+# ISPF Command Cheat Sheet - Daily use
+---------------------------------------------------------
+- Utilities(3): Udlist(17): z/OS UNIX Directory List Utility
+- Utilities(3): SDSF(8): Active users(DA): Spool Display and Search Facility 
 
 # TSO Command Cheat Sheet
 ----------------------------------------------------------
