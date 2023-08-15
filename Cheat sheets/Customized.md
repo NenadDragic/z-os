@@ -12,7 +12,8 @@
 # ISPF Command Cheat Sheet - Daily use
 ---------------------------------------------------------
 - Utilities(3): Udlist(17): z/OS UNIX Directory List Utility
-- Utilities(3): SDSF(8): Active users(DA): Spool Display and Search Facility 
+- Utilities(3): SDSF(8): Active users(DA): Spool Display and Search Facility -
+  - "S": See job
 
 # TSO Command Cheat Sheet
 ----------------------------------------------------------
