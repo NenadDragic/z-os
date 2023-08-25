@@ -24,4 +24,5 @@
 - TSO LASTIPL: Date and time of the last IPL
 - TSO ISPVCALL STATUS: System information related to ISPF Session
 - TSO vagtadm: Administration af Batchvagter og Kontaktpersoner
-- TSO OMVS:- Invoke the z/OS shell
+- TSO OMVS: Invoke the z/OS shell
+- TSO v265: Vagt 265 Tools
